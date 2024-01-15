@@ -4,8 +4,8 @@ A simple filter operation on a list in Python
 ## Program Structure
 ```
 root/
-|-- listOperations.js             (* Main source file containing the program logic *)
-|-- testListOperations.js                 (* Test suite for the project *)
+|-- listOperations.py                     (* Main source file containing the program logic *)
+|-- /test_listOperations.py                (* Test suite for the project *)
 
 ```
 
@@ -23,7 +23,7 @@ To test the written program icludes the following test cases
 
 ## Test Results
 After running the test file in the respectcive folder will get the following result:
-![Test Suite Results]([https://github.com/IIITM-Jay/filterListJavaScript/blob/master/filterListJavascript.png](https://github.com/IIITM-Jay/filterListPython/blob/master/Screenshot%20from%202024-01-15%2020-06-30.png)https://github.com/IIITM-Jay/filterListPython/blob/master/Screenshot%20from%202024-01-15%2020-06-30.png)
+![Test Suite Results](https://github.com/IIITM-Jay/filterListPython/blob/master/Screenshot%20from%202024-01-15%2020-06-30.png)
 
 
 
